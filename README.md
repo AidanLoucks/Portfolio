@@ -21,7 +21,7 @@ Children:
 - [Charged Attack State](PlayerChargedAttackState.cs)
 - [Tongue State](PlayerTongueState.cs)
 
-## Behavior Trees
+## Behavior Tree Scripts
 
 Trees:
 - [Bloxzor](BossBT.cs)
@@ -40,6 +40,21 @@ Decoraters (Expanded)
 - [Fail Switch](FailSwitch.cs)
 - [RandomizedSelector](RandomizedSelector.cs)
 - [BossSwitch](BossSwitch.cs)
+
+## Skill Tree Scripts
+
+Main Tree Script
+- [Skill Tree Alg](SkillTree.cs)
+
+Idv Skill Scripts
+- [Skill](Skill.cs)
+  - [Modifier](Modifier.cs)
+  - [Health Modifier](HealthModifier.cs)
+  - [Damage Modifier](DamageModifier.cs)
+  - [StaminaModifier](StaminaModifier.cs)
+- Augments (Coming Soon)
+- Spells (Also Coming Soon
+
 
 
 
