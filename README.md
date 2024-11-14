@@ -16,8 +16,10 @@ Children:
 - [Idle State](PlayerIdleState.cs)
 - [Run State](PlayerRunState.cs)
 - [Roll State](PlayerRollState.cs)
-- [Pre-AttackState](PlayerPreAttackState.cs)
-- [AttackState](PlayerAttackState.cs)
+- [Pre-Attack State](PlayerPreAttackState.cs)
+- [Attack State](PlayerAttackState.cs)
+- [Charged Attack State](PlayerChargedAttackState.cs)
+- [Tongue State](PlayerTongueState.cs)
 
 
 
