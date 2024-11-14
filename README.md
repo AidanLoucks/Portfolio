@@ -1,5 +1,5 @@
 # Portfolio
-May not all be clean, but code indeed
+May not be clean, but code indeed (trying to learn)
 
 # Froguelike
 ## New (WIP) Advanced Tilemap Procedural Generation
@@ -15,6 +15,9 @@ Parent:
 Children:
 - [Idle State](PlayerIdleState.cs)
 - [Run State](PlayerRunState.cs)
+- [Roll State](PlayerRollState.cs)
+- [Pre-AttackState](PlayerPreAttackState.cs)
+- [AttackState](PlayerAttackState.cs)
 
 
 
