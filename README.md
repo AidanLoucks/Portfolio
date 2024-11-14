@@ -61,11 +61,11 @@ Idv Skill Scripts
 
 ## Various ManagerScripts
 
-[Game Manager](GameManager.cs)
-[Input Manager](InputManage.cs)
-[UI Manager](UIManager.cs)
-[Audio Manager](AudioManager.cs)
-[Scene Switch Manager](SceneSwitchManager.cs)
+- [Game Manager](GameManager.cs)
+- [Input Manager](InputManage.cs)
+- [UI Manager](UIManager.cs)
+- [Audio Manager](AudioManager.cs)
+- [Scene Switch Manager](SceneSwitchManager.cs)
 
 
 
