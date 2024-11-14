@@ -28,6 +28,18 @@ Children:
   - [Shogun](SecondBossBT.cs)
   - [Normal Enemy](EnemyBT.cs)
   - [Ranged Enemy](RangedEnemyBT.cs)
+ 
+  Decoraters (Basic)
+  - [Selector](Selector.cs)
+  - [Sequence](Sequence.cs)
+  - [Switch](Switch.cs)
+  - [Timer](Timer.cs)
+ 
+  Decoraters (Expanded)
+  - [Deferred Sequence](DeferredSequence.cs)
+  - [Fail Switch](FailSwitch.cs)
+  - [RandomizedSelector](RandomizedSelector.cs)
+  - [BossSwitch](BossSwitch.cs)
 
 
 
