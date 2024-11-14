@@ -21,25 +21,25 @@ Children:
 - [Charged Attack State](PlayerChargedAttackState.cs)
 - [Tongue State](PlayerTongueState.cs)
 
-  ## Behavior Trees
+## Behavior Trees
 
-  Trees:
-  - [Bloxzor](BossBT.cs)
-  - [Shogun](SecondBossBT.cs)
-  - [Normal Enemy](EnemyBT.cs)
-  - [Ranged Enemy](RangedEnemyBT.cs)
+Trees:
+- [Bloxzor](BossBT.cs)
+- [Shogun](SecondBossBT.cs)
+- [Normal Enemy](EnemyBT.cs)
+- [Ranged Enemy](RangedEnemyBT.cs)
  
-  Decoraters (Basic)
-  - [Selector](Selector.cs)
-  - [Sequence](Sequence.cs)
-  - [Switch](Switch.cs)
-  - [Timer](Timer.cs)
+Decoraters (Basic)
+- [Selector](Selector.cs)
+- [Sequence](Sequence.cs)
+- [Switch](Switch.cs)
+- [Timer](Timer.cs)
  
-  Decoraters (Expanded)
-  - [Deferred Sequence](DeferredSequence.cs)
-  - [Fail Switch](FailSwitch.cs)
-  - [RandomizedSelector](RandomizedSelector.cs)
-  - [BossSwitch](BossSwitch.cs)
+Decoraters (Expanded)
+- [Deferred Sequence](DeferredSequence.cs)
+- [Fail Switch](FailSwitch.cs)
+- [RandomizedSelector](RandomizedSelector.cs)
+- [BossSwitch](BossSwitch.cs)
 
 
 
