@@ -13,7 +13,8 @@ Parent:
 - [Base State](BaseState.cs)
 
 Children:
-- [Idle State](PlayerIdleState.cs)
+- [Idle State](PlayerIdleState.cs)[Uploading Modifier.cs…]()
+
 - [Run State](PlayerRunState.cs)
 - [Roll State](PlayerRollState.cs)
 - [Pre-Attack State](PlayerPreAttackState.cs)
@@ -54,6 +55,11 @@ Idv Skill Scripts
   - [StaminaModifier](StaminaModifier.cs)
 - Augments (Coming Soon)
 - Spells (Also Coming Soon
+
+## Various ManagerScripts
+
+[Game Manager](GameManager.cs)
+[
 
 
 
