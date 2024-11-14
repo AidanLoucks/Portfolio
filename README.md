@@ -16,8 +16,7 @@ Parent:
 - [Base State](BaseState.cs)
 
 Children:
-- [Idle State](PlayerIdleState.cs)[Uploading Modifier.cs…]()
-
+- [Idle State](PlayerIdleState.cs)
 - [Run State](PlayerRunState.cs)
 - [Roll State](PlayerRollState.cs)
 - [Pre-Attack State](PlayerPreAttackState.cs)
