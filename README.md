@@ -21,6 +21,14 @@ Children:
 - [Charged Attack State](PlayerChargedAttackState.cs)
 - [Tongue State](PlayerTongueState.cs)
 
+  ## Behavior Trees
+
+  Trees:
+  - [Bloxzor](BossBT.cs)
+  - [Shogun](SecondBossBT.cs)
+  - [Normal Enemy](EnemyBT.cs)
+  - [Ranged Enemy](RangedEnemyBT.cs)
+
 
 
 
