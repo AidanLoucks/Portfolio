@@ -59,7 +59,7 @@ Idv Skill Scripts
 - Augments (Coming Soon)
 - Spells (Also Coming Soon
 
-## Various ManagerScripts
+## Various Manager Scripts
 
 - [Game Manager](GameManager.cs)
 - [Input Manager](InputManage.cs)
