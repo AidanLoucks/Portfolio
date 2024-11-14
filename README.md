@@ -6,6 +6,9 @@ May not be clean, but code indeed (trying to learn)
 - [Tilemap](TilemapIO.cs)
 - [GraphGenerator](GraphGenerator.cs)
 
+Old DFS Generation
+- [DFS Map Generator](ProceduralGeneration.cs)
+
 ## Main Player State Machine Scripts
 - [Main State Machine](PlayerStateMachine.cs)
 
@@ -51,7 +54,7 @@ Idv Skill Scripts
 - [Skill](Skill.cs)
   - [Modifier](Modifier.cs)
   - [Health Modifier](HealthModifier.cs)
-  - [Damage Modifier](DamageModifier.cs)
+  - [Damage Modifier](NormalDamageModifier.cs)
   - [StaminaModifier](StaminaModifier.cs)
 - Augments (Coming Soon)
 - Spells (Also Coming Soon
@@ -59,7 +62,10 @@ Idv Skill Scripts
 ## Various ManagerScripts
 
 [Game Manager](GameManager.cs)
-[
+[Input Manager](InputManage.cs)
+[UI Manager](UIManager.cs)
+[Audio Manager](AudioManager.cs)
+[Scene Switch Manager](SceneSwitchManager.cs)
 
 
 
